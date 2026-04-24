@@ -45,6 +45,7 @@ void setup() {
   server.begin();
 
   Serial.println("Server started");
+  digitalWrite(LED_BUILTIN, HIGH);
 }
 
 void loop() {
