@@ -21,7 +21,7 @@
 #endif
 
 // Set these to your desired credentials.
-const char *ssid = "testAP1";
+const char *ssid = "testAP3";
 const char *password = "password1234";
 
 NetworkServer server(80);
